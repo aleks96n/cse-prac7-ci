@@ -1,5 +1,5 @@
 def inc(x):
-    return x + 1231230121231
+    return x + 123123
 
 def test_answer():
     assert inc(3) == 5
